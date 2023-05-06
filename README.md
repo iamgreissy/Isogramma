@@ -1,4 +1,4 @@
-# Strings
+# Isogramma
 ## Esercizio Isogramma 
 Questo esercizio in C definisce una funzione "is_isogram" che prende in input una stringa e verifica se questa è un isogramma, ovvero una parola o una frase in cui non ci sono lettere ripetute.
 
